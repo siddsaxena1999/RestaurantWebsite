@@ -238,3 +238,13 @@ ul li a:hover {
 .form-control label {
     font-family: 'Bree Serif', serif;
 }
+
+.form-btn {
+    padding: 10px 20px;
+    margin-bottom: 30px;
+    background-color: rgb(255, 115, 0);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
